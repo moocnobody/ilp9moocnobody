@@ -24,6 +24,7 @@ NanoProject
 There is only one nano-project for all groups for this first course.
 
 ### NanoProject 1 - question 1 ###
+_This question must wait for the course on XML and the basics of ilp9_
 
 Write an XML program that binds three numbers to the local variables
 `a`, `b` and `c` (standing for the coefficients of the equation `ax^2+bx+c`),
